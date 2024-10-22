@@ -20,3 +20,4 @@ This project automates tasks for **WhatsApp**, **YouTube**, and **search engines
 - Install the required Python libraries:
   ```bash
   pip install pywhatkit speechrecognition pyttsx3
+![WhatsApp Image 2024-10-22 at 21 48 21](https://github.com/user-attachments/assets/131d8e3b-8a12-46a6-a4b9-360ff034031d)
